@@ -1,5 +1,5 @@
 import { StrictMode } from 'react';
-import * as ReactDOMClient from 'react-dom/client';
+import * as ReactDOMClient from 'react-dom';
 
 /* Theme */
 import { ThemeProvider } from 'commons/style/styled-components';
